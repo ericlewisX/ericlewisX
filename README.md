@@ -2,6 +2,9 @@
 
 
 **ericlewisX/ericlewisX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Working on the Odin Project at the moment! :D
+ 
  
 Here are some ideas to get you started: 
 
